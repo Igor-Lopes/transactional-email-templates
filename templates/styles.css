@@ -23,6 +23,7 @@ body {
   /*line-height: 22px;*/
 }
 
+
 /* Let's make sure all tables have defaults */
 table td {
   vertical-align: top;
@@ -52,7 +53,7 @@ body {
   max-width: 600px;
   margin: 0 auto;
   display: block;
-  padding: 20px;
+  /* padding: 20px; */
 }
 
 /* -------------------------------------
